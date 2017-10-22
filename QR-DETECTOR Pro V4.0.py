@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # coding=utf-8
+# by KBdancer@92ez.com
 
 from PyQt5.QtWidgets import QApplication, QMessageBox, QWidget, QGroupBox, QButtonGroup, QTextBrowser, QHBoxLayout, QComboBox
 from PyQt5.QtWidgets import QVBoxLayout, QTableWidget, QDialog, QTableWidgetItem, QAbstractItemView, QHeaderView, QRadioButton, QSpinBox, QFileDialog
